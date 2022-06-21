@@ -1,4 +1,4 @@
-# voc-project
+# voc-project (Rest-Api)
 
 ### 1.Table Schema
 ![테이블 스키마](https://user-images.githubusercontent.com/76646494/173235830-79750ab1-55da-4a12-9a89-72dd778320b9.png)
